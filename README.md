@@ -29,7 +29,7 @@ A página destaca os serviços oferecidos, benefícios, e inclui um formulário 
    git clone https://github.com/RiquelmiDev/SiteOnePage.git
 
 ## 🏠 Estrutura do Projeto
-
+```bash
 .
 ├── index.html          # Página principal
 ├── css/
